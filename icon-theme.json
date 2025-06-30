@@ -1,0 +1,33 @@
+{
+  "iconDefinitions": {
+    // default file icon
+    "_file":   { "iconPath": "./icons/file.png" },
+    // default folder icon
+    "folder":  { "iconPath": "./icons/folder.png" },
+    // use file.png as fallback
+    "default": { "iconPath": "./icons/file.png" },
+
+    // specific icons
+    "html":    { "iconPath": "./icons/html.png" },
+    "json":    { "iconPath": "./icons/json.png" },
+    "key":     { "iconPath": "./icons/key.png" }
+  },
+
+  // map the default and folder
+  "file":           "_file",
+  "folder":         "folder",
+  "folderExpanded": "folder",
+
+  // map extensions to your icons
+  "fileExtensions": {
+    "html": "html",
+    "json": "json",
+    "key":  "key"
+  },
+
+  // optional: map by language ID
+  "languageIds": {
+    "html": "html",
+    "json": "json"
+  }
+}
