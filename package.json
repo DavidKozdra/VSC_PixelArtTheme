@@ -1,12 +1,21 @@
 {
   "name": "dkpixelart-theme",
   "displayName": "DK Pixel Art Theme",
-  "publisher": "davidk",
+  "publisher": "DavidKozdra",
   "description": "A custom pixel-art file icon theme for VSCodium",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "icon": "icons/logo_128x128.png",
   "engines": {
     "vscode": "^1.80.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DavidKozdra/VSC_PixelArtTheme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DavidKozdra/VSC_PixelArtTheme/issues"
+  },
+  "homepage": "https://github.com/DavidKozdra/VSC_PixelArtTheme#readme",
   "categories": [
     "Themes"
   ],
