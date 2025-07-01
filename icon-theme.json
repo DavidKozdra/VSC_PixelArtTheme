@@ -17,7 +17,8 @@
     "markdown":   { "iconPath": "./icons/markdown.png" },
     "python":     { "iconPath": "./icons/Python.png" },
     "typescript": { "iconPath": "./icons/TypeScript.png" },
-    "vue":        { "iconPath": "./icons/Vue.png" }
+    "vue":        { "iconPath": "./icons/Vue.png" },
+    "git": { "iconPath": "./icons/git.png" },
   },
 
   "file":           "_file",
@@ -43,7 +44,8 @@
     "python":     "python",
     "ts":         "typescript",
     "typescript": "typescript",
-    "vue":        "vue"
+    "vue":        "vue",
+    "git":"git"
   },
 
   "languageIds": {
