@@ -18,12 +18,23 @@
     "python":     { "iconPath": "./icons/Python.png" },
     "typescript": { "iconPath": "./icons/TypeScript.png" },
     "vue":        { "iconPath": "./icons/Vue.png" },
-    "git": { "iconPath": "./icons/git.png" },
+    "git":        { "iconPath": "./icons/git.png" }
   },
 
   "file":           "_file",
   "folder":         "folder",
   "folderExpanded": "folder",
+
+  "fileNames": {
+    ".env":             "key",
+    ".env.local":       "key",
+    ".env.development": "key",
+    ".env.production":  "key",
+    ".env.test":        "key",
+    "secret.json":      "key",
+    "secrets.json":     "key",
+    "credentials.json": "key"
+  },
 
   "fileExtensions": {
     "html":       "html",
@@ -35,7 +46,7 @@
     "image":      "image",
     "java":       "java",
     "js":         "javascript",
-    "javascript": "javascript",
+    "jsx":        "javascript",
     "json":       "json",
     "key":        "key",
     "md":         "markdown",
@@ -43,9 +54,10 @@
     "py":         "python",
     "python":     "python",
     "ts":         "typescript",
+    "tsx":        "typescript",
     "typescript": "typescript",
     "vue":        "vue",
-    "git":"git"
+    "git":        "git"
   },
 
   "languageIds": {
@@ -54,7 +66,9 @@
     "sql":        "sql",
     "json":       "json",
     "javascript": "javascript",
+    "jsx":        "javascript",
     "typescript": "typescript",
+    "tsx":        "typescript",
     "python":     "python"
   }
 }
