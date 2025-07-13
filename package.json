@@ -3,7 +3,7 @@
   "displayName": "DK Pixel Art Theme",
   "publisher": "DavidKozdra",
   "description": "A custom pixel-art file icon theme for VSCodium",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "icon": "icons/logo_128x128.png",
   "engines": {
     "vscode": "^1.80.0"
