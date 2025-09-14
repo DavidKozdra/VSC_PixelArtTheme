@@ -26,7 +26,8 @@
     "music":      { "iconPath": "./icons/music.png" },
     "php":        { "iconPath": "./icons/php.png" },
     "rust":       { "iconPath": "./icons/rust.png" },
-    "shell":      { "iconPath": "./icons/shell.png" }
+    "shell":      { "iconPath": "./icons/shell.png" },
+    "docker" : { "iconPath": "./icons/docker.png" }
   },
 
   "file":           "_file",
@@ -41,7 +42,9 @@
     ".env.test":        "key",
     "secret.json":      "key",
     "secrets.json":     "key",
-    "credentials.json": "key"
+    "credentials.json": "key",
+
+    "dockerfile": "docker"
   },
 
   "fileExtensions": {
