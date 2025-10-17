@@ -2,9 +2,13 @@
 
 All notable changes to the “dk-file-icons” extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
 ## [Unreleased]
+
+# v6 10/25 
+
+added some changes to the worse sprites git html css java sql and csv 
+added a python build step so that the image sizes can be correct and uniform
+
 
 ### Added
 - Comprehensive new icons and mappings for:
