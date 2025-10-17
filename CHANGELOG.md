@@ -4,7 +4,7 @@ All notable changes to the “dk-file-icons” extension will be documented in t
 
 ## [Unreleased]
 
-# v6 10/25 
+# v7 10/25 
 
 added some changes to the worse sprites git html css java sql and csv 
 added a python build step so that the image sizes can be correct and uniform
