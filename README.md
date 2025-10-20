@@ -4,7 +4,7 @@
 Basic file icon theme for vscode drawn by me with pixel art. 
 
 
-![alt text](icons/bat.png) ![alt text](icons/c.png) ![alt text](icons/cpp.png) ![alt text](icons/csharp.png) ![alt text](icons/file.png) ![alt text](icons/folder.png) ![alt text](icons/font.png) ![alt text](icons/git.png) ![alt text](icons/Image.png) ![alt text](icons/Java.png) ![alt text](icons/JavaScript.png) ![alt text](icons/json.png) ![alt text](icons/key.png)  ![alt text](icons/lua.png) ![alt text](icons/markdown.png) ![alt text](icons/music.png) ![alt text](icons/php.png) ![alt text](icons/Python.png) ![alt text](icons/rust.png) ![alt text](icons/shell.png) ![alt text](icons/sql.png) ![alt text](icons/TypeScript.png) ![alt text](icons/Vue.png)
+![alt text](icons/bat.png) ![alt text](icons/c.png) ![alt text](icons/cpp.png) ![alt text](icons/csharp.png) ![alt text](icons/file.png) ![alt text](icons/folder.png) ![alt text](icons/font.png) ![alt text](icons/git.png) ![alt text](icons/Image.png) ![alt text](icons/JavaScript.png) ![alt text](icons/json.png) ![alt text](icons/key.png)  ![alt text](icons/lua.png) ![alt text](icons/markdown.png) ![alt text](icons/music.png) ![alt text](icons/php.png) ![alt text](icons/Python.png) ![alt text](icons/rust.png) ![alt text](icons/shell.png) ![alt text](icons/sql.png) ![alt text](icons/TypeScript.png) ![alt text](icons/Vue.png)
 
 
 # Full Preview 
